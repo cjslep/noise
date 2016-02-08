@@ -19,22 +19,22 @@ persistence value. The octaves have constant gain and lacunarity.
 The following images are generated when running `go test`:
 
 Perlin Noise:
-[Perlin Noise](perlin_test.png)
+![Perlin Noise](perlin_test.png)
 
 Simplex Noise:
-[Simplex Noise](simplex_test.png)
+![Simplex Noise](simplex_test.png)
 
 Perlin Noise with Catmull-Rom Spline Interpolation:
-[Perlin Noise with Catmull-Rom Spline Interpolation](perlin_spline_test.png)
+![Perlin Noise with Catmull-Rom Spline Interpolation](perlin_spline_test.png)
 
 Perlin Pink Octave Noise:
-[Perlin Pink Octave Noise](octave_perlin_test.png)
+![Perlin Pink Octave Noise](octave_perlin_test.png)
 
 Simplex Pink Octave Noise:
-[Simplex Pink Octave Noise](octave_simplex_test.png)
+![Simplex Pink Octave Noise](octave_simplex_test.png)
 
 Perlin Pink Octave Noise with Catmull-Rom Spline Interpolation:
-[Perlin Pink Octave Noise with Catmull-Rom Spline Interpolation](octave_perlin_spline_test.png)
+![Perlin Pink Octave Noise with Catmull-Rom Spline Interpolation](octave_perlin_spline_test.png)
 
 ## How To Use
 
